@@ -24,3 +24,14 @@ A smart contract is a self-executing program stored on a blockchain.
 - Eliminates the need for intermediaries.
 - Provides transparency and security.
 - Commonly used in DeFi, NFTs, and blockchain applications.
+## Common Web3 Scams
+
+- Fake airdrop websites.
+- Phishing links shared on social media.
+- Fake wallet support asking for your seed phrase.
+- Malicious browser extensions.
+- Fake token contracts pretending to be official.
+
+### Safety Reminder
+
+Always verify official links before connecting your wallet or signing any transaction.
